@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 ## :rocket: Sobre o desafio
@@ -66,11 +65,6 @@ $ yarn dev
 
 # running on port 3333
 ```
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 
 Feito por :wave: [Anderson Rodrigues](https://www.linkedin.com/in/andersonmaikrodrigues/)
